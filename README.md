@@ -1,3 +1,4 @@
+https://musicplayerhtmlcssjavascript.netlify.app/
 # Music-Player
 This is a simple music player built using HTML, CSS, and JavaScript. It allows users to play and control audio tracks on a web page. The player has basic functionality such as play/pause, volume control, and track progress.
 
